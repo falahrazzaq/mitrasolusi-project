@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Banking Machinery",
+        "description": "Help you to grow your financial business domestically",
+        "color": "bg-red-300",
+        "items": [
+            {
+                "id": 1,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 2,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 3,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 4,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 5,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 6,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "serviceName": "Workstation",
+        "description": "Enhance the productivity of your people",
+        "color": "bg-cyan-200",
+        "items": [
+            {
+                "id": 1,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 2,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 3,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 4,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 5,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 6,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "serviceName": "Server & Hosting",
+        "description": "Fulfil your database and software needs",
+        "color": "bg-blue-200",
+        "items": [
+            {
+                "id": 1,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 2,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 3,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 4,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 5,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 6,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "serviceName": "UPS",
+        "description": "Preven any damage of your devices from power loss",
+        "color": "bg-red-200",
+        "items": [
+            {
+                "id": 1,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 2,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 3,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 4,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 5,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            },
+            {
+                "id": 6,
+                "imageURL": "https://th.bing.com/th/id/OIP.GnL0ptk5uH6g2cVPy0JXYQAAAA?pid=ImgDet&rs=1"
+            }
+        ]
+    }
+]
